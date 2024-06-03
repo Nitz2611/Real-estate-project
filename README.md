@@ -1,7 +1,7 @@
 Hello and welcome to my real estate project that has a functionality for people to list yachts as well.
 
-Start Backend - npx nodemon
-Start Client - npm run start
+Start Backend - cd backend -> npm start
+Start Client - cd client -> npm run start
 
 CLIENT ->
 Routing is in the App.js file and App.css has some css to remove default values margin and padding and etc.
@@ -18,3 +18,5 @@ Models folder - I've written the schemas of the documents there
 Controllers folder - I've defined the endpoint and the functions for the backend routes
 Public folder - This folder holds the images 
 Index.js file - Most of the middlewares and all of the routes are defined there.
+
+![screenshot](ss1.png)
